@@ -1,0 +1,16 @@
+body {
+  background-color: #55ccbb;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.main-div {
+  text-align:center;
+}
+
+.disp {
+  display: inline-block;
+  vertical-align: top;
+}
